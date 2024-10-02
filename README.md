@@ -1,9 +1,9 @@
 # olá meu nome é Mariana
 
-Tenho 18 anos
+**Tenho 18 anos
 
-Faço física por amor
+**Faço física por amor
 
-Sou Meio Oficial da BOSCH
+**Sou Meio Oficial da BOSCH
 
 
